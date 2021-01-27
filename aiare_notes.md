@@ -4,7 +4,7 @@ Conducted 22-24 Jan
 
 ## Avalanche basics
 
-[Avalanche Triangle](captures/avalanche_triangle.png)
+![Avalanche Triangle](captures/avalanche_triangle.png)
 
 ## Snow Formation
 
@@ -23,8 +23,9 @@ Conducted 22-24 Jan
   * Rapid warming or cooling can make collapses and compression
 
 * Travel / Metamorphosis
-  * More travel affects snow shape - [
-  snow flake to grain](captures/snow_grain_formation.png)
+  * More travel affects snow shape 
+  
+  ![snow flake to grain](captures/snow_grain_formation.png)
 
 * Rounds
   * Found in warmer temperatures
@@ -139,7 +140,7 @@ Conducted 22-24 Jan
 
 ## Regions
 
-[regions](captures/snow_regions_us.png)
+![regions](captures/snow_regions_us.png)
 
 * Maritime
   * Deep snowpack, warm temps
@@ -171,11 +172,11 @@ Conducted 22-24 Jan
 * Review ridges and run outs
 
 
-[Undefined Anatomy](captures/Undefined_Avalanche_Anatomy.png)
+![Undefined Anatomy](captures/Undefined_Avalanche_Anatomy.png)
 
-[Defined Anatomy](captures/Defined_Avalanche_Anatomy.png)
+![Defined Anatomy](captures/Defined_Avalanche_Anatomy.png)
 
-[Undefined Alpine Anatomy](captures/Alpine_Undefined_Avalanche_Anatomy.png)
+![Undefined Alpine Anatomy](captures/Alpine_Undefined_Avalanche_Anatomy.png)
 
 * Review terrain in summer
   * Get an idea of what's underneath
@@ -189,13 +190,13 @@ Conducted 22-24 Jan
 
 * Region - treeline
 
-[Incline Accidents](captures/percents_accidents_incline.png)
+![Incline Accidents](captures/percents_accidents_incline.png)
 
 * Incline
   * Most dangerous angle is $38^o$
   * $30 - 45^o$ is the "avalanche zone"
 
-[Slope Angle Danger](captures/slope_angle_danger.png)
+![Slope Angle Danger](captures/slope_angle_danger.png)
 
 * Tools
   * Slope angle tools exist online
@@ -209,7 +210,7 @@ Conducted 22-24 Jan
   * 30 - steep
   * 35 - double black
 
-[Terrain Trap](captures/terrain_traps.png)
+![Terrain Trap](captures/terrain_traps.png)
 
 * Terrain Traps
   * Features that increase the consequences of being caught in an avalanche
@@ -276,6 +277,5 @@ Conducted 22-24 Jan
 
 ## Trip plan - route
 
-[Trip Planning Advice](captures/trip_planning_caic.png)
+![Trip Planning Advice](captures/trip_planning_caic.png)
 
-* 
